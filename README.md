@@ -1,5 +1,7 @@
 Digital Door Lock System
 
+<img width="302" height="244" alt="Screenshot 2026-06-07 201814" src="https://github.com/user-attachments/assets/751cceda-a8f0-4932-b4ef-24bd2e4889c6" />
+
 ## Project Overview
 
 This project is a password-protected digital door lock system developed using Arduino Uno, a 4x4 keypad, a 16x2 LCD display, and a servo motor. Users can enter a password through the keypad, and the system verifies the entered password before granting access.
